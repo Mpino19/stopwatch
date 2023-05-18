@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+#time {
+    font-size: 50px;
+    margin: 0 20px;
+}
+#buttons {
+    margin: 15px 0;
+}
+button {
+    font-size: 16px;
+    padding: 10px 5px;
+}
+button:disabled {
+    background-color: white;
+    opacity: 0.7;
+}  
